@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gobikrishnan T</h1>
 <h3 align="center">A passionate full stack developer. Have the Skill to work in any battle ground like Frontend and backend.</h3>
-<img align="center" src = "https://gph.is/g/ZyPn9wd" width = "150" height = "200"/>
+<span align = "center">
+  <img align="center" src = "https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width = "250" height = "200"/>
+  <h5 align = "center">👑 It is not important we are winning or losing we have to fight 👑</h5>
+</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobikrishnant&label=Profile%20views&color=0e75b6&style=flat" alt="gobikrishnant" /> </p>
 
